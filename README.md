@@ -1,0 +1,58 @@
+⭐️ From [stackdev002](https://github.com/stackdev002)
+
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=stackdev002.stackdev002)](https://github.com/stackdev002)
+[![Followers](https://img.shields.io/github/followers/stackdev002?style=social)](https://github.com/stackdev002?tab=followers)
+
+
+#### 🛠️ Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![RESTful API](https://img.shields.io/badge/-RESTful_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+![Bolt.new](https://img.shields.io/badge/-Bolt.new-6c68ff?style=flat-square&logoColor=white)
+![Lovable.dev](https://img.shields.io/badge/-Lovable.dev-ff69b4?style=flat-square&logoColor=white)
+![V0.chat](https://img.shields.io/badge/-V0.chat-7289DA?style=flat-square&logoColor=white)
+![Replit](https://img.shields.io/badge/-Replit-667881?style=flat-square&logo=replit&logoColor=white)
+
+![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-5A67D8?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/-DeepSeek-005571?style=flat-square&logoColor=white)
+![Perplexity](https://img.shields.io/badge/-Perplexity-3F48CC?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+![n8n](https://img.shields.io/badge/-n8n-FF6D00?style=flat-square&logo=n8n&logoColor=white)
+![Make.com](https://img.shields.io/badge/-Make.com-000000?style=flat-square&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![RetellAI](https://img.shields.io/badge/-RetellAI-5A45FF?style=flat-square&logoColor=white)
+![Vapi](https://img.shields.io/badge/-Vapi-6236FF?style=flat-square&logoColor=white)
+
+![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Babylon.js](https://img.shields.io/badge/-Babylon.js-BB464B?style=flat-square&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![glTF/glb](https://img.shields.io/badge/-glTF/glb-F5C300?style=flat-square&logoColor=black)
